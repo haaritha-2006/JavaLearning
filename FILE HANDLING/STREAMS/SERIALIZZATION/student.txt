@@ -1,0 +1,3 @@
+//the data from serialize is not visible because it is written
+in bytes 
+//bytes are not human readable but stored in system/RAM
